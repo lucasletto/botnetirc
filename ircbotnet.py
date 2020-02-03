@@ -1,6 +1,6 @@
 #coding: utf-8
-
-#Criado by Pablo Santhus
+#Kar98k RDP [ON]
+#Criado by lucas Letto
 #Site para criar canal: https://webchat.freenode.net
 
 import socket, os
